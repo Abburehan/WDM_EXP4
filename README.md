@@ -60,3 +60,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/c70b6ee3-868a-45fc-ba13-99d5da0d0719)
 
 ### Result:
+Thus the Implementation of Cluster and Visitor Segmentation for Navigation patterns is executed successfully.
